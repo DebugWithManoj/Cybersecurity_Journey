@@ -57,5 +57,5 @@ Average: 11.25
 
 ## Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Manoj
 
