@@ -1,5 +1,4 @@
 
-````markdown
 # Number Summary Tool
 
 This is a simple Python script that takes a list of numbers from the user and gives a quick summary, including the total, maximum, minimum, and average. It’s perfect for quickly checking your numbers without doing the math manually.
@@ -60,7 +59,3 @@ Average: 11.25
 
 Made with ❤️ by [Your Name]
 
-```
-
-If you want, I can also **rewrite this README in a very casual, “human typing in the terminal” style** so it feels like a real person wrote it, not formal documentation. Do you want me to do that?
-```
