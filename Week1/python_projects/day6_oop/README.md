@@ -25,6 +25,9 @@ It defines a `Student` class with instance variables and methods, creates multip
 ```python
 student1 = Student("Manoj", 101, [85, 90, 78])
 student2 = Student("Amit", 102, [92, 88, 79])
+print(student1)
+print(student2)
+
 Output:
 
 Student Name: Manoj
@@ -40,5 +43,3 @@ Total Marks: 259
 Average Marks: 86.33
 
 
-print(student1)
-print(student2)
