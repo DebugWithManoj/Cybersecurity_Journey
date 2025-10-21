@@ -46,7 +46,7 @@ The projects cover:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/DebugWithManoj/python-automation-week1.git
+git clone https://github.com/DebugWithManoj/Cybersecurity_Journey/tree/main/Week1/python_projects.git
 ````
 
 2. **Navigate to the repo:**
