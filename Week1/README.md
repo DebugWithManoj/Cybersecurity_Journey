@@ -46,7 +46,7 @@ The projects cover:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/<your-username>/python-automation-week1.git
+git clone https://github.com/DebugWithManoj/python-automation-week1.git
 ````
 
 2. **Navigate to the repo:**
@@ -82,6 +82,5 @@ I am learning and building projects **step by step** to become a better Python d
 
 **Made with ❤️ by Manoj Kumar Panigrahi**
 
-```
 
 
